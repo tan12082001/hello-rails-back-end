@@ -14,6 +14,9 @@ gem "puma", ">= 5.0"
 # Rubocop gem
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+# Rack-cors gem
+gem 'rack-cors'
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
