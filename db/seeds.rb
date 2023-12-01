@@ -1,0 +1,8 @@
+Greeting.create(message: 'Hello User! How are you?')
+Greeting.create(message: '¡Hola Usuario! ¿Cómo estás?')
+Greeting.create(message: 'Bonjour utilisateur ! Comment ça va ?')
+Greeting.create(message: 'హలో వినియోగదారు! మీరు ఎలా ఉన్నారు?')
+Greeting.create(message: 'คุณสบายดีไหมครับ/ค่ะ?')
+Greeting.create(message: 'こんにちは、ユーザーさん！お元気ですか？')
+Greeting.create(message: '안녕하세요! 어떻게 지내세요?')
+Greeting.create(message: '你好用户！你好吗？')
